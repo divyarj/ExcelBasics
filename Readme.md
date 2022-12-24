@@ -1,6 +1,6 @@
 Practice : Excel Topics
 
-1)Creating a new workbook
+1)Creating a new workbook \n
 2)Importing data in different file formats
 3)Create table, select ranges, Formatting
 4)Formulas + Functions
